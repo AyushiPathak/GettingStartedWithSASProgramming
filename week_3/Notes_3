@@ -1,4 +1,4 @@
-# WEEK 03 NOTES 
+# WEEK 03 NOTES
 
 E X P L O R I N G   A N D   V A L I D A T I N G   D A T A  
 
@@ -423,3 +423,5 @@ run;
 ```
 
 And as we take a look at the results, we can see we have one row for storm Agatha with the minimum pressure, as well as all of the other storms included in the original Storm_Detail table.
+
+[WEEK%2003%20NOTES%200785ba53df7d41ca83edc07146533747/sas_week03.pdf](WEEK%2003%20NOTES%200785ba53df7d41ca83edc07146533747/sas_week03.pdf)
